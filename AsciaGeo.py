@@ -112,7 +112,7 @@ if __name__ ==  "__main__":
 	print("#                         Welcome in AsciaGeo                       #")
 	print("#  Questo è un tool che permette di creare facilmente un file .geo  #")
 	print("#            AsciaGeo è stato sviluppato da Asciaibo ed è           #")
-	print("#	         diffuso gratuitamente in nome dell'OpenSource          #")
+	print("#	         diffuso gratuitamente in nome dell'OpenSource     #")
 	print("#####################################################################")
 
 	n_profiles, input_files, AoA, dx, dy, C, H, lcc, lFF = define_data()
